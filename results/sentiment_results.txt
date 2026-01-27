@@ -1,0 +1,237 @@
+Analyse de sentiment par média
+================================================================================
+
+Média: Refinery 29
+  Nombre de blocs par sentiment: {'positive': 267, 'neutral': 635, 'negative': 98}
+  Proportions:
+    - Positive: 26.70%
+    - Neutral:  63.50%
+    - Negative: 9.80%
+  Score moyen global: 0.1301
+--------------------------------------------------------------------------------
+
+Média: Vox
+  Nombre de blocs par sentiment: {'positive': 102, 'neutral': 696, 'negative': 202}
+  Proportions:
+    - Positive: 10.20%
+    - Neutral:  69.60%
+    - Negative: 20.20%
+  Score moyen global: -0.0539
+--------------------------------------------------------------------------------
+
+Média: Business Insider
+  Nombre de blocs par sentiment: {'positive': 197, 'neutral': 729, 'negative': 74}
+  Proportions:
+    - Positive: 19.70%
+    - Neutral:  72.90%
+    - Negative: 7.40%
+  Score moyen global: 0.0968
+--------------------------------------------------------------------------------
+
+Média: Gizmodo
+  Nombre de blocs par sentiment: {'positive': 193, 'neutral': 721, 'negative': 86}
+  Proportions:
+    - Positive: 19.30%
+    - Neutral:  72.10%
+    - Negative: 8.60%
+  Score moyen global: 0.0830
+--------------------------------------------------------------------------------
+
+Média: Buzzfeed News
+  Nombre de blocs par sentiment: {'positive': 85, 'neutral': 780, 'negative': 135}
+  Proportions:
+    - Positive: 8.50%
+    - Neutral:  78.00%
+    - Negative: 13.50%
+  Score moyen global: -0.0258
+--------------------------------------------------------------------------------
+
+Média: Economist
+  Nombre de blocs par sentiment: {'positive': 58, 'neutral': 723, 'negative': 219}
+  Proportions:
+    - Positive: 5.80%
+    - Neutral:  72.30%
+    - Negative: 21.90%
+  Score moyen global: -0.0979
+--------------------------------------------------------------------------------
+
+Média: Politico
+  Nombre de blocs par sentiment: {'positive': 74, 'neutral': 813, 'negative': 113}
+  Proportions:
+    - Positive: 7.40%
+    - Neutral:  81.30%
+    - Negative: 11.30%
+  Score moyen global: -0.0144
+--------------------------------------------------------------------------------
+
+Média: New Republic
+  Nombre de blocs par sentiment: {'positive': 74, 'neutral': 736, 'negative': 190}
+  Proportions:
+    - Positive: 7.40%
+    - Neutral:  73.60%
+    - Negative: 19.00%
+  Score moyen global: -0.0652
+--------------------------------------------------------------------------------
+
+Média: Axios
+  Nombre de blocs par sentiment: {'positive': 57, 'neutral': 872, 'negative': 71}
+  Proportions:
+    - Positive: 5.70%
+    - Neutral:  87.20%
+    - Negative: 7.10%
+  Score moyen global: -0.0045
+--------------------------------------------------------------------------------
+
+Média: Mashable
+  Nombre de blocs par sentiment: {'positive': 284, 'neutral': 644, 'negative': 72}
+  Proportions:
+    - Positive: 28.40%
+    - Neutral:  64.40%
+    - Negative: 7.20%
+  Score moyen global: 0.1626
+--------------------------------------------------------------------------------
+
+Média: The Hill
+  Nombre de blocs par sentiment: {'positive': 43, 'neutral': 844, 'negative': 113}
+  Proportions:
+    - Positive: 4.30%
+    - Neutral:  84.40%
+    - Negative: 11.30%
+  Score moyen global: -0.0411
+--------------------------------------------------------------------------------
+
+Média: The Verge
+  Nombre de blocs par sentiment: {'positive': 261, 'neutral': 699, 'negative': 40}
+  Proportions:
+    - Positive: 26.10%
+    - Neutral:  69.90%
+    - Negative: 4.00%
+  Score moyen global: 0.1614
+--------------------------------------------------------------------------------
+
+Média: CNBC
+  Nombre de blocs par sentiment: {'positive': 107, 'neutral': 769, 'negative': 124}
+  Proportions:
+    - Positive: 10.70%
+    - Neutral:  76.90%
+    - Negative: 12.40%
+  Score moyen global: -0.0027
+--------------------------------------------------------------------------------
+
+Média: The New York Times
+  Nombre de blocs par sentiment: {'positive': 112, 'neutral': 796, 'negative': 92}
+  Proportions:
+    - Positive: 11.20%
+    - Neutral:  79.60%
+    - Negative: 9.20%
+  Score moyen global: 0.0221
+--------------------------------------------------------------------------------
+
+Média: Reuters
+  Nombre de blocs par sentiment: {'positive': 50, 'neutral': 849, 'negative': 101}
+  Proportions:
+    - Positive: 5.00%
+    - Neutral:  84.90%
+    - Negative: 10.10%
+  Score moyen global: -0.0275
+--------------------------------------------------------------------------------
+
+Média: Vice
+  Nombre de blocs par sentiment: {'positive': 172, 'neutral': 690, 'negative': 138}
+  Proportions:
+    - Positive: 17.20%
+    - Neutral:  69.00%
+    - Negative: 13.80%
+  Score moyen global: 0.0342
+--------------------------------------------------------------------------------
+
+Média: Fox News
+  Nombre de blocs par sentiment: {'positive': 116, 'neutral': 778, 'negative': 106}
+  Proportions:
+    - Positive: 11.60%
+    - Neutral:  77.80%
+    - Negative: 10.60%
+  Score moyen global: 0.0159
+--------------------------------------------------------------------------------
+
+Média: Hyperallergic
+  Nombre de blocs par sentiment: {'positive': 103, 'neutral': 843, 'negative': 54}
+  Proportions:
+    - Positive: 10.30%
+    - Neutral:  84.30%
+    - Negative: 5.40%
+  Score moyen global: 0.0341
+--------------------------------------------------------------------------------
+
+Média: Wired
+  Nombre de blocs par sentiment: {'positive': 177, 'neutral': 767, 'negative': 56}
+  Proportions:
+    - Positive: 17.70%
+    - Neutral:  76.70%
+    - Negative: 5.60%
+  Score moyen global: 0.0866
+--------------------------------------------------------------------------------
+
+Média: People
+  Nombre de blocs par sentiment: {'positive': 353, 'neutral': 566, 'negative': 81}
+  Proportions:
+    - Positive: 35.30%
+    - Neutral:  56.60%
+    - Negative: 8.10%
+  Score moyen global: 0.2173
+--------------------------------------------------------------------------------
+
+Média: CNN
+  Nombre de blocs par sentiment: {'positive': 73, 'neutral': 770, 'negative': 157}
+  Proportions:
+    - Positive: 7.30%
+    - Neutral:  77.00%
+    - Negative: 15.70%
+  Score moyen global: -0.0454
+--------------------------------------------------------------------------------
+
+Média: Washington Post
+  Nombre de blocs par sentiment: {'positive': 96, 'neutral': 521, 'negative': 44}
+  Proportions:
+    - Positive: 14.52%
+    - Neutral:  78.82%
+    - Negative: 6.66%
+  Score moyen global: 0.0611
+--------------------------------------------------------------------------------
+
+Média: TMZ
+  Nombre de blocs par sentiment: {'positive': 179, 'neutral': 732, 'negative': 89}
+  Proportions:
+    - Positive: 17.90%
+    - Neutral:  73.20%
+    - Negative: 8.90%
+  Score moyen global: 0.0704
+--------------------------------------------------------------------------------
+
+Média: TechCrunch
+  Nombre de blocs par sentiment: {'positive': 267, 'neutral': 693, 'negative': 40}
+  Proportions:
+    - Positive: 26.70%
+    - Neutral:  69.30%
+    - Negative: 4.00%
+  Score moyen global: 0.1585
+--------------------------------------------------------------------------------
+
+Média: Vice News
+  Nombre de blocs par sentiment: {'positive': 24, 'neutral': 707, 'negative': 269}
+  Proportions:
+    - Positive: 2.40%
+    - Neutral:  70.70%
+    - Negative: 26.90%
+  Score moyen global: -0.1519
+--------------------------------------------------------------------------------
+
+Média: New Yorker
+  Nombre de blocs par sentiment: {'positive': 81, 'neutral': 771, 'negative': 148}
+  Proportions:
+    - Positive: 8.10%
+    - Neutral:  77.10%
+    - Negative: 14.80%
+  Score moyen global: -0.0349
+--------------------------------------------------------------------------------
+
