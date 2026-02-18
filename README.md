@@ -1,12 +1,6 @@
 # media-analysis
 computational social science : media-analysis
 
+Définition de critères quantitatifs pour aider un utilisateur à choisir une source d’information selon ses préférences (thème général, richesse du vocabulaire, biais politique, positivité).
 
-TRUCS A FAIRE
-
-écrire une petite présentation du jeu de données
-
-things to compare:
-compressibility rate / quantity of information (richesse du vocabulaire)
-type of vocabulary (positif/négatif)
-parti politique
+Obtention de valeurs numériques en utilisant une variété de méthodes.
