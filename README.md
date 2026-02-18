@@ -1,6 +1,5 @@
-# media-analysis
-computational social science : media-analysis
+# media-analysis (computational social science)
 
-Définition de critères quantitatifs pour aider un utilisateur à choisir une source d’information selon ses préférences (thème général, richesse du vocabulaire, biais politique, positivité).
+Defining quantitative criteria to help a user choose an information source based on their preferences (general theme, vocabulary richness, political bias, positivity).
 
-Obtention de valeurs numériques en utilisant une variété de méthodes.
+Obtaining numerical values ​​using a variety of methods.
